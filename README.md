@@ -1,7 +1,7 @@
 # Exercícios de Estrutura Sequencial
 Python Brasil "Exercícios de Estrutura Sequencial"
 
-Repositório com resolução de exercícios disponíveis na comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
+Este é um repositório com resolução de exercícios que estão disponíveis na comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 
 Suportada versão Python 3.9.1
 
