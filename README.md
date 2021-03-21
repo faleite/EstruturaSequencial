@@ -1,5 +1,6 @@
-# Exercícios de Estrutura Sequencial
-Python Brasil "Exercícios de Estrutura Sequencial"
+EstruturaSequencial
+
+:basecampy: Python Brasil "Exercícios de Estrutura Sequencial"
 
 Este é um repositório com resolução de exercícios que estão disponíveis na comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 
