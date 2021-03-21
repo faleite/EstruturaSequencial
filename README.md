@@ -1,10 +1,10 @@
 # Estrutura Sequencial :electron:
 
-"Exercícios de Estrutura Sequencial"
+:snake: "Exercícios de Estrutura Sequencial"
 
 Este é um repositório com resolução de exercícios que estão disponíveis na comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 
-Suportada versão Python 3.9.1
+Suportada versão de Python 3.9.1
 
 ## Lista de Exercícios
 
