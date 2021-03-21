@@ -5,3 +5,5 @@ Repositório com resolução de exercícios disponíveis na comunidade [Python B
 
 Suportada versão Python 3.9.1
 
+Enunciados:
+![alt text](https://github.com/faleite/EstruturaSequencial/raw/main/enunciados.png)
