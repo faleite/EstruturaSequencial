@@ -4,8 +4,6 @@
 
 Este é um repositório com resolução de exercícios que estão disponíveis na comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 
-Suportada versão de Python 3.9.1
-
 ## Lista de Exercícios
 
 - [Exercício - 01](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/1.py)
@@ -18,3 +16,5 @@ Suportada versão de Python 3.9.1
 - [Exercício - 08](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/8.py)
 - [Exercício - 09](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/9.py)
 - [Exercício - 10](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/10.py)
+
+Suportada versão de Python 3.9.1
