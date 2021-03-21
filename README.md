@@ -6,8 +6,6 @@ Este é um repositório com resolução de exercícios que estão disponíveis n
 
 Suportada versão Python 3.9.1
 
-![alt text](https://wiki.python.org.br/pybr/img/pythonbrasil_logo.png)
-
 ## Lista de Exercícios
 
 - [Exercício - 01](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/1.py)
