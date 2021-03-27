@@ -2,7 +2,8 @@
 
 ## Lista de exercícios disponibilizados pela comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 
-_Obs. Este é um repositório que utilizei para fazer a resolução dos de exercícios. Fique a vontade para contribuir com outras formas de resolver ou para corrigir_
+_Obs. Este é um repositório que utilizei para fazer a resolução dos de exercícios. 
+Fique a vontade para contribuir com outras formas de resolver ou para corrigir_
 
 ### Segue tabela com links contendo:
 * _Os enunciados em modulo Python pronto para ser resolvidos_
