@@ -1,10 +1,17 @@
-# Estrutura Sequencial :electron:
+# :electron: Exercícios de Estrutura Sequencial :snake:
 
-:snake: "Exercícios de Estrutura Sequencial"
+## Disponibilizados pela comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 
-Este é um repositório com resolução de exercícios que estão disponíveis na comunidade [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
+## Este é um repositório com resolução de exercícios
 
 ## Lista de Exercícios
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 - [Exercício - 01](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/1.py)
 - [Exercício - 02](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/2.py)
