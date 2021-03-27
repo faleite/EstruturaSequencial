@@ -8,7 +8,7 @@
 
 | Enunciados   | Resolvidos        | Status|
 |:-------------|:------------------|:------|
-|              |- [Exercício - 01](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/1.py) | :heavy_check_mark:|
+|              |[Ex. 01](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/1.py) | :heavy_check_mark:|
 |              |- [Exercício - 02](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/2.py) | :heavy_check_mark:|
 |              |- [Exercício - 03](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/3.py) | :heavy_check_mark:|
 |              |- [Exercício - 04](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/4.py) | :heavy_check_mark:|
