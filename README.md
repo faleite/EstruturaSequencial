@@ -29,4 +29,4 @@
 |[Ex. 17](https://github.com/faleite/EstruturaSequencial/blob/main/enunciados/17.py)|[Ex. 17](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/17.py)| :heavy_check_mark:| 
 |[Ex. 18](https://github.com/faleite/EstruturaSequencial/blob/main/enunciados/18.py)|[Ex. 18](https://github.com/faleite/EstruturaSequencial/blob/main/exercicios/18.py)| :heavy_check_mark:| 
 
-### Suportada versão de Python 3.9.1
+### Suportada versão de Python 3.9
